@@ -23,6 +23,6 @@ Each program can be run independently by selecting the corresponding program num
 
 ## Author
 
-- Name: Nishanth K J
-- USN: 4MH21CS065
+- Name: HARISH N
+- USN: 4MH21CS031
 - Faculty Name: Victor Ikechukwu Agughasi
